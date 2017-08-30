@@ -1,5 +1,5 @@
 addCollaborators:
   newCollaboratorMessage: "Heya"
-  existingCollaboratorMessage: "Welcome ba'ck"
+  existingCollaboratorMessage: "Welcome ba\'ck"
 remindMerge:
   message: "delete!"
