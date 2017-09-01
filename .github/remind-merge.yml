@@ -1,3 +1,2 @@
-remindMerge:
-  merged: "delete!"
-  unmerged: "you no merge?"
+merged: "delete!"
+unmerged: "you no merge?"
