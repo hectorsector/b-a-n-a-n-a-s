@@ -1,0 +1,6 @@
+checkPath:
+  path: "apathhere",
+  name: "Your Path",
+  success: "iz good",
+  failure: "try again",
+  detailsURL: "http://github.com/"
