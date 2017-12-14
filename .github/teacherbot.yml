@@ -16,3 +16,5 @@ checkExtension:
   detailsURL: "https://vimeo.com/201011288"
   success: "Your file has the proper extension."
   failure: "Your file extension is not .txt. Click details for instructions on how to fix."
+reopenClosedIssue:
+  message: "y u close!?"
